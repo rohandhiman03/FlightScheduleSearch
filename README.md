@@ -38,5 +38,4 @@ This project is a software application that allows users to search for flight sc
 
 ## Contributors
 
-- [Your Name](https://github.com/YourGitHubUsername)
-- [Collaborator Name](https://github.com/CollaboratorGitHubUsername)
+- [Rohan Dhiman](https://github.com/rohandhiman03)
